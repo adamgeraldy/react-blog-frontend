@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-devaxblogs-dev-103150-authRole",
+            "UnauthRoleArn": "arn:aws:iam::589921006547:role/amplify-devaxblogs-dev-103150-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::589921006547:role/amplify-devaxblogs-dev-103150-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-devaxblogs-dev-103150-deployment",
+            "UnauthRoleName": "amplify-devaxblogs-dev-103150-unauthRole",
+            "StackName": "amplify-devaxblogs-dev-103150",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:589921006547:stack/amplify-devaxblogs-dev-103150/fc8ef770-870b-11eb-b0c9-06f1487f6a64",
+            "AmplifyAppId": "d3q8ecgco5kbwb"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3q8ecgco5kbwb",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
